@@ -1,6 +1,7 @@
 #ifndef PUNYCODE_CPP_H
 #define PUNYCODE_CPP_H
 
+#include <limits>
 #include <stdexcept>
 #include <string>
 #include <vector>
